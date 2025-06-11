@@ -65,5 +65,5 @@ We observed a lack of awareness among students and faculty regarding proper wast
 
 ### 📥 Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-waste-management.git
+git clone https://github.com/AniketGangurde02/Smart-Waste-Management-and-Awareness-System
 cd smart-waste-management
